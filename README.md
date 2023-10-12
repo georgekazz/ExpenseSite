@@ -1,3 +1,7 @@
+
+![Screenshot_2](https://github.com/georgekazz/ExpenseSite/assets/37716642/75c09fc8-a6ea-40dc-8c1f-455514d2c778)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
