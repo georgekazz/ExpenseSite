@@ -1,6 +1,5 @@
-
+![Screenshot_3](https://github.com/georgekazz/ExpenseSite/assets/37716642/70d6c41d-9853-44b9-a524-c5f964a2c4dc)
 ![Screenshot_2](https://github.com/georgekazz/ExpenseSite/assets/37716642/75c09fc8-a6ea-40dc-8c1f-455514d2c778)
-
 
 # Getting Started with Create React App
 
